@@ -1,0 +1,1 @@
+/Users/keisukemori/dotfiles/vim/.vimrc
